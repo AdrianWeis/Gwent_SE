@@ -11,5 +11,7 @@ c -2
 c + 3
 res1 + 3
 val f =c -2
+//jay
+val d = 30
 
 

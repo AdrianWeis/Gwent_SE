@@ -10,4 +10,7 @@ val d = 30
 d + 20
 res2 + 10
 
+print("Gwendt_1")
+
+
 

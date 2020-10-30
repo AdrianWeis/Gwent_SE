@@ -11,7 +11,7 @@ d + 20
 res2 + 10
 printf("Versuch Branch zu wechseln")
 
-print("Gwendt_1")
+print("Gwent_1")
 
 
 
